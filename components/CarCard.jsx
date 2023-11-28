@@ -50,7 +50,7 @@ const CarCard = ({ car }) => {
                     <div className="flex flex-col justify-center items-center gap-2">
                         <Image src="/gas.svg" alt="gas" width={20} height={20} />
                         <p className="text-[14px]">
-                            { city_mpg } MPG
+                            { city_mpg } MPG.
                         </p>
                     </div>
                 </div>
