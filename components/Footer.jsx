@@ -8,9 +8,9 @@ const Footer = () => {
         <footer className="flex flex-col text-black-100 mt-5 border-t border-gray-100">
             <div className="flex max-md:flex-col flex-wrap justify-between gap-5 sm:px-16 px-6 py-10">
                 <div className="flex flex-col justify-start items-start gap-6">
-                    <Image src="/logo.svg" width={120} height={20} alt="logo" className="object-contain" />
+                    <Image src="/logo5.svg" width={200} height={30} alt="logo" className="object-contain" />
                     <p className="text-base text-gray-700">
-                        Car-Store 2023 <br />
+                        CarGT 2023 <br />
                         All rights reserved &copy;
                     </p>
                 </div>
